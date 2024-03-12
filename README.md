@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abenezer Tesfaye
 - 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning software engineering at ASTU
-- 💞️ I’m looking to collaborate on React & Redux
+- 💞️ I’m looking to collaborate on Front-end development
 - 📫 How to reach me abenezerttz23@gmail.com
 
 
